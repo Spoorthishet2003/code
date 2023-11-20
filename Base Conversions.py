@@ -1,3 +1,5 @@
+//Program to convert binary to decimal, octal to hexadecimal using functions.
+
 def bin2dec(val):
     rev=val[::-1]
     dec=0
