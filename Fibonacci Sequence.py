@@ -1,4 +1,4 @@
-//# A recursive implementation to calculate terms in the Fibonacci sequence. 
+// A recursive implementation to calculate terms in the Fibonacci sequence. 
    
 def fn(n):
     if n <= 2:
